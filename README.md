@@ -6,7 +6,7 @@ Code Collective is a supportive community for  critical–creative coding. It is
 
 ## How: Find it in this repo
 
-1. [Schedule]()
+1. [Schedule](#schedule)
 2. [Resources & Knowledge Base]()
 3. [Templates]()
 4. [Projects]()
@@ -36,3 +36,9 @@ Sprechstunden: Tues 14.00–16.00, Co-working @ Lab
 
 
 
+### Schedule
+
+|-|-|-|
+|16|16 Apr|Introductions|
+|17|23 Apr||
+|18|30 Apr||
