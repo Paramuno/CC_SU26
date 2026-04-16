@@ -27,9 +27,9 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 
 |Week|Date|Topics & Presentations|[Read of the Week](readings.md)|Discussion Lead|
 |---|---|---|---|---|
-|1|16 Apr|Introductions|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Sarah|
-|2|23 Apr|TBD|TBD|TBD|
-<!-- |3|30 Apr|||| -->
+|1|16 Apr|Introductions|n/a|Sarah|
+|2|23 Apr|Get to Know Git & Terminal|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Henry|
+|3|30 Apr|TBD|TBD|TBD|
 <!-- |4|7 May|||| -->
 <!-- |5|14 May|||| -->
 <!-- |6|21 May|||| -->
