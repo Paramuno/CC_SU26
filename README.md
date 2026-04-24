@@ -27,9 +27,9 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 
 |Week|Date|Topics & Presentations|[Read of the Week](readings.md)|Discussion Lead|
 |---|---|---|---|---|
-|1|16 Apr|Introductions|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Sarah|
-|2|23 Apr|TBD|TBD|TBD|
-<!-- |3|30 Apr|||| -->
+|1|16 Apr|Introductions|n/a|Sarah|
+|2|23 Apr|Get to Know Git & Terminal|[McQuillan "Predicted Benefits, Proven Harms: How AI’s Algorithmic Violence Emerged from Our Own Social Matrix"](https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo)|Henry|
+|3|30 Apr|TBD|TBD|TBD|
 <!-- |4|7 May|||| -->
 <!-- |5|14 May|||| -->
 <!-- |6|21 May|||| -->
@@ -49,7 +49,9 @@ Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 Sprechstunden: https://tinyurl.com/chatwsarah (Make a time to chat with Sarah)
 
 Tues 11.00–13.00, Co-working @ Lab
+
 Tues 14.00–15.50, Appointments/Co-working @ Lab <!--1:1 Appointments @ Heumarkt 14, R3.19-->
+
 Thurs 14.00–16.00, Appointments/Co-working @ Lab  
 
 **Aiden Vetter** (he/they) Wissenschaftliche Hilfskraft [aiden dot vetter at khm dot de](aiden.vetter@khm.de)
